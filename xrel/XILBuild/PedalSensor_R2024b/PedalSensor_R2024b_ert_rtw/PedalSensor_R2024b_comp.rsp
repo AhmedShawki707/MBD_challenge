@@ -1,0 +1,10 @@
+-ID:/MBD_challenge/xrel/XILBuild/PedalSensor_R2024b
+-ID:/MBD_challenge/xrel/XILBuild/PedalSensor_R2024b/PedalSensor_R2024b_ert_rtw
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/ert"
+-ID:/MBD_challenge
+-ID:/MBD_challenge/PedalSensor_ert_rtw
+-ID:/MBD_challenge/xrel/XILBuild/PedalSensor_R2024b/slprj/ert/_sharedutils
